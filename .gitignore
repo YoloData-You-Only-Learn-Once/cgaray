@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Data and problem statements
+Q1_20160130.pdf
+conversion_data.csv
